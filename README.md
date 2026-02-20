@@ -4,8 +4,11 @@
 - Diverse client portfolio, including FMCG, retail, luxury, beauty, entertainment, telecom, gaming, and banking
 - Transforming data into compelling, decision-ready storytelling
 
-# Skills
-  
+# Work Experience
+- Lead performance analysis of a 1.8M-user website, translating behavioural and engagement data into strategic optimisation actions that improved user journeys and content effectiveness.
+- Drive 400% growth in new users over two years for a digital magazine by refining content strategy, audience targeting, and performance measurement optimisation with evolving audience behaviours.
+- Lead customer and content strategy for a 6M readership publication, leveraging audience data and performance insights to optimise audience engagement and long-term growth.
+
 # Skills
 GA4 | Semrush | Looker Studio | Adobe Analytics | Hotjar | SimilarWeb | SPSS | Q/Displayr | Social listening & analytics tool
 
