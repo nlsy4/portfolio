@@ -29,15 +29,19 @@ A world-renowned FMCG brand possessed deep psychographic and demographic data on
 I bridged the gap between "who the audience is" and "where they live online" by:
 
 1️⃣ Segment Recreation
+
 Mapped existing brand personas into GWI (GlobalWebIndex) using complex attribute layering (demographics + lifestyle attitudes).
 
 2️⃣ Media Consumption Deep-Dive
-Analyzed 50+ touchpoints to identify high-affinity channels (Social, VOD, Podcasts, OOH) specifically for these segments.
+
+Analyzed media touchpoints to identify high-affinity channels (Social, VOD, Podcasts, OOH) specifically for these segments.
 
 3️⃣ "Day in the Life"
+
 Crafted a chronological touchpoint map showing how segments engage with media from morning till night, identifying the "golden hours" for engagement.
 
 4️⃣ Market Nuance Identification
+
 Isolated key differences in media behavior across different markets to ensure the global strategy worked at a local level.
 
 <b>🎯 The Results</b>
